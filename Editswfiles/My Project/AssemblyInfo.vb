@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("WindowsApp1")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("WindowsApp1")>
-<Assembly: AssemblyCopyright("Copyright ©  2025")>
+<Assembly: AssemblyTitle("Editswfiles")>
+<Assembly: AssemblyDescription("Editswfiles is an text editor for the .swfiles file format.")>
+<Assembly: AssemblyCompany("Freesoft")>
+<Assembly: AssemblyProduct("Editswfiles")>
+<Assembly: AssemblyCopyright("Copyright © Freesoft 2026")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
